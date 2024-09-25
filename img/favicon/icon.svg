@@ -1,28 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-	<style type="text/css">
-		.st0{fill:#FFFFFF;}
-	</style>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Final" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2029.39 1764.94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
 
-	<style type="text/css">
-		.icon__cat {
-			fill: #000000;
-		}
-		.icon__eyes {
-			fill: #ffffff;
-		}
-		@media (prefers-color-scheme: dark) {
-			.icon__cat {
-			fill: #ffffff;
-			}
-			.icon__eyes {
-				fill: #000000;
-			}
-		}
-	</style>
+      .cls-2 {
+        stroke-width: 6.2px;
+      }
 
-	<path class="icon__cat" d="M15,8v1h1v1h-1v1v1v1v1h-1v1h0h-1h-1h-1h-1h-1h-1h-1h-1h-1h-1H2.8H2.4H2.1h0v-1H1v-1v-1v-1v-1H0V9h1V8H0V7h1h0.7v-1v-1h1v-1
-		v-1v-1h1v-1h1v1h1v1h1h1h1h1v-1h1v-1h1v1h1v1v1v1h1v1v1H15h1v1H15z"/>
+      .cls-2, .cls-3, .cls-4 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
 
-	<path class="icon__eyes" d="M9.7,5.9h1v1v1h-1V7V5.9z M5.2,7v1h1V7v-1h-1V7z"/>
+      .cls-2, .cls-4 {
+        stroke: #fff;
+      }
 
+      .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        fill: #231f20;
+      }
+
+      .cls-3 {
+        stroke: url(#linear-gradient-2);
+        stroke-linecap: round;
+        stroke-width: 7px;
+      }
+
+      .cls-4 {
+        stroke-width: 4px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-469.13" y1="999.86" x2="1006.97" y2="1485.36" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".13" stop-color="#f7f7f7"/>
+      <stop offset=".32" stop-color="#e1e1e1"/>
+      <stop offset=".56" stop-color="#bdbdbd"/>
+      <stop offset=".83" stop-color="#8b8b8b"/>
+      <stop offset=".85" stop-color="#898989"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="1223.21" y1="1225.03" x2="2029.39" y2="1225.03" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7a7b7b"/>
+      <stop offset=".19" stop-color="#9e9f9f"/>
+      <stop offset=".44" stop-color="#c8c8c8"/>
+      <stop offset=".67" stop-color="#e6e6e6"/>
+      <stop offset=".86" stop-color="#f8f8f8"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="ND">
+    <polygon class="cls-1" points="49.5 701.75 49.5 1764.94 305.57 1764.94 305.57 1012.93 691.3 1764.94 814.48 1764.94 814.48 1431.07 431.99 701.75 49.5 701.75"/>
+    <path class="cls-5" d="m1715.59,1188.38c-25.93-544.28-417.94-486.62-901.11-492.15v1068.71h398.69s528.35-32.28,502.42-576.56Zm-472.11,332.6h-140.56v-591.9c142.45,3.3,308.55-28.87,317.69,272.57,1.36,44.68-1.58,83.13-7.57,116.22-1.45,8.02-3.08,15.72-4.87,23.12-40.7,168.09-164.69,179.99-164.69,179.99Z"/>
+    <polygon class="cls-3" points="1230.21 1225.03 2025.89 1684.42 2025.89 765.65 1230.21 1225.03"/>
+    <polygon class="cls-6" points="1658.89 1488.11 1670.76 1463.18 1413.58 1314.77 1407.49 1343.71 1658.89 1488.11"/>
+    <polygon class="cls-5" points="1410.56 1105.49 1415.18 1133.23 1679.76 980.74 1670.36 955.7 1410.56 1105.49"/>
+    <circle class="cls-4" cx="1261.92" cy="596.03" r="233.14"/>
+    <path class="cls-6" d="m1450.31,745.13c-4.47-1.99-9.2-3.88-14.13-5.71-43.09,52.32-106.47,82.32-174.26,82.32-85.33,0-164.4-49.2-202.3-125.57-9.41-.02-15.2.04-16.4.06.58,1.27,1.1,2.57,1.71,3.83,39.84,82.95,125.01,136.55,216.98,136.55,72.96,0,141.16-32.56,187.1-89.34.68-.84,1.31-1.71,1.98-2.56l-.7.42Z"/>
+    <circle class="cls-2" cx="466.09" cy="466.09" r="462.99"/>
+    <path class="cls-6" d="m853.25,696.99c-78.82,131.67-222.86,220.01-387.16,220.01s-304.99-86.3-384.39-215.44l-28.02.17c81.99,142.94,236.14,239.44,412.41,239.44s333.9-98.72,415.15-244.35l-27.99.17Z"/>
+  </g>
 </svg>
